@@ -1,0 +1,56 @@
+---
+title: "Academic Writing Framework"
+subtitle: "A structured repository of components and blueprints for high-impact scientific reporting."
+author: "Spatial Geography Team"
+date: today
+format:
+  html:
+    theme: flatly
+    toc: true
+    toc-depth: 2
+    toc-location: right
+    toc-title: "Contents"
+    number-sections: true
+    smooth-scroll: true
+    title-block-banner: false
+    page-layout: article
+    fontsize: 1.1em
+---
+
+Research writing is not just about data; it is about **structure**. This framework provides modular components to help you build rigorous academic papers from the title down to the discussion.
+
+---
+
+{{< include "academic-writing-framework-output/Title and Keywords.md" >}}
+
+---
+
+{{< include "academic-writing-framework-output/Abstract.md" >}}
+
+---
+
+{{< include "academic-writing-framework-output/Introduction.md" >}}
+
+---
+
+{{< include "academic-writing-framework-output/Context.md" >}}
+
+---
+
+{{< include "academic-writing-framework-output/Methodology.md" >}}
+
+---
+
+{{< include "academic-writing-framework-output/Results.md" >}}
+
+---
+
+{{< include "academic-writing-framework-output/Discussion.md" >}}
+
+---
+
+{{< include "academic-writing-framework-output/Conclusion.md" >}}
+
+---
+
+{{< include "academic-writing-framework-output/AI Risk in Academic Writings.md" >}}
