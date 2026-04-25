@@ -1,0 +1,1 @@
+Sitemap: https://spatialgeography.github.io/writing/sitemap.xml
